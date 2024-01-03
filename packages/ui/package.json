@@ -10,5 +10,8 @@
     "masonry"
   ],
   "author": "loieee",
-  "license": "MIT"
+  "license": "MIT",
+  "peerDependencies": {
+    "react": "^18.2.0"
+  }
 }
